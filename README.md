@@ -2,4 +2,4 @@
 Python Google Chat bot  
 
 Run:
-`python3 quickstart.py`
+`python3 chatBot.py`
